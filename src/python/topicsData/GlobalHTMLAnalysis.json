@@ -1,0 +1,36 @@
+{
+    "max_depth": 61,
+    "classes": {
+        "subject": 275,
+        "title": 275,
+        "date": 275,
+        "header": 3157,
+        "text": 5962,
+        "link": 11,
+        "sub-header": 128,
+        "subheader": 9,
+        "sub-text": 95
+    },
+    "ids": {},
+    "inline_styles": 28,
+    "special_items": {
+        "div": 9995,
+        "br": 1819
+    },
+    "tag_types": {
+        "div": 9995,
+        "br": 1819,
+        "iframe": 23,
+        "img": 53,
+        "a": 11,
+        "pre": 3,
+        "ul": 184,
+        "li": 595,
+        "strong": 33,
+        "sub": 18,
+        "sup": 13,
+        "i": 13,
+        "code": 40,
+        "b": 5
+    }
+}

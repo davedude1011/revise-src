@@ -1,0 +1,14 @@
+MAKE SURE YOUR ON THE CORRECT PATH
+git init
+git remote set-url origin https://github.com/davedude1011/revise-src.git
+git checkout -b main
+git add .
+git commit -m "update"
+git push -u origin main --force
+cd dist
+git init
+git remote set-url origin https://github.com/davedude1011/revise.git
+git checkout -b main
+git add .
+git commit -m "update"
+git push -u origin main --force

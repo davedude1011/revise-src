@@ -1,0 +1,1296 @@
+{
+  "Maths": {
+    "November 2022": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83001F-QP-NOV22.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83002F-QP-NOV22.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83003F-QP-NOV22.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83001H-QP-NOV22.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83002H-QP-NOV22.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83003H-QP-NOV22.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83001F-MS-NOV22.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83002F-MS-NOV22.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83003F-MS-NOV22.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83001H-MS-NOV22.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83002H-MS-NOV22.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/november/AQA-83003H-MS-NOV22.PDF"
+          }
+        ]
+      }
+    },
+    "June 2022": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83001F-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83002F-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83003F-QP-JUN22.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83001H-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83002H-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83003H-QP-JUN22.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83001F-MS-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83002F-MS-JUN22.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83003F-MS-JUN22.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83001H-MS-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83002H-MS-JUN22.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-83003H-MS-JUN22.PDF"
+          }
+        ]
+      }
+    },
+    "November 2021": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83001F-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83002F-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83003F-QP-NOV21.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83001H-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83002H-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83003H-QP-NOV21.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83001F-MS-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83002F-MS-NOV21.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83003F-MS-NOV21.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83001H-MS-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83002H-MS-NOV21.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-83003H-MS-NOV21.PDF"
+          }
+        ]
+      }
+    },
+    "November 2020": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83001F-QP-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83002F-QP-NOV20.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83003F-QP-NOV20.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83001H-QP-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83002H-QP-NOV20.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83003H-QP-NOV20.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83001F-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83002F-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83003F-W-MS-NOV20.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83001H-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83002H-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-83003H-W-MS-NOV20.PDF"
+          }
+        ]
+      }
+    },
+    "November 2019": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83001F-QP-NOV19.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83002F-QP-NOV19.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83003F-QP-NOV19.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83001H-QP-NOV19.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83002H-QP-NOV19.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83003H-QP-NOV19.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83001F-W-MS-NOV19.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83002F-W-MS-NOV19.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83003F-W-MS-NOV19.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83001H-W-MS-NOV19.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83002H-W-MS-NOV19.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/november/AQA-83003H-W-MS-NOV19.PDF"
+          }
+        ]
+      }
+    },
+    "June 2019": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-83001F-QP-JUN19.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-83002F-QP-JUN19.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-83001H-QP-JUN19.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-83002H-QP-JUN19.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-83003H-QP-JUN19.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-83001F-W-MS-JUN19.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-83002F-W-MS-JUN19.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-83001H-W-MS-JUN19.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-83002H-W-MS-JUN19.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-83003H-W-MS-JUN19.PDF"
+          }
+        ]
+      }
+    },
+    "November 2018": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83001F-QP-NOV18.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83002F-QP-NOV18.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83003F-QP-NOV18.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83001H-QP-NOV18.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83002H-QP-NOV18.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83003H-QP-NOV18.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83001F-W-MS-NOV18.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83002F-W-MS-NOV18.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83003F-W-MS-NOV18.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83001H-W-MS-NOV18.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83002H-W-MS-NOV18.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/november/AQA-83003H-W-MS-NOV18.PDF"
+          }
+        ]
+      }
+    },
+    "June 2018": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83001F-QP-JUN18.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83002F-QP-JUN18.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83003F-QP-JUN18.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83001H-QP-JUN18.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83002H-QP-JUN18.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83003H-QP-JUN18.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83001F-W-MS-JUN18.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83002F-W-MS-JUN18.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83003F-W-MS-JUN18.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83001H-W-MS-JUN18.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83002H-W-MS-JUN18.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-83003H-W-MS-JUN18.PDF"
+          }
+        ]
+      }
+    },
+    "November 2017": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83001F-QP-NOV17.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83002F-QP-NOV17.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83003F-QP-NOV17.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83001H-QP-NOV17.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83002H-QP-NOV17.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83003H-QP-NOV17.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83001F-W-MS-NOV17.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83002F-W-MS-NOV17.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83003F-W-MS-NOV17.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1 Non-calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83001H-W-MS-NOV17.PDF"
+          },
+          {
+            "title": "Paper 2 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83002H-W-MS-NOV17.PDF"
+          },
+          {
+            "title": "Paper 3 Calculator",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2017/november/AQA-83003H-W-MS-NOV17.PDF"
+          }
+        ]
+      }
+    }
+  },
+  "Biology": {
+    "June 2022": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611F-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84612F-QP-JUN22.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84612H-QP-JUN22.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611F-MS-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84612F-MS-JUN22.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84612H-MS-JUN22.PDF"
+          }
+        ]
+      }
+    },
+    "November 2021": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84611F-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84612F-QP-NOV21.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84611H-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84612H-QP-NOV21.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84611F-MS-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84612F-MS-NOV21.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84611H-MS-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84612H-MS-NOV21.PDF"
+          }
+        ]
+      }
+    },
+    "November 2020": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84611F-QP-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84612F-QP-NOV20.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84611H-QP-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84612H-QP-NOV20.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84611F-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84612F-W-MS-NOV20.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84611H-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84612H-W-MS-NOV20.PDF"
+          }
+        ]
+      }
+    }
+  },
+  "Chemistry": {
+    "June 2022": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84621F-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84622F-QP-JUN22.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84621H-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84622H-QP-JUN22.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84621F-MS-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84622F-MS-JUN22.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84621H-MS-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84622H-MS-JUN22.PDF"
+          }
+        ]
+      }
+    },
+    "November 2021": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84621F-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84622F-QP-NOV21.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84621H-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84622H-QP-NOV21.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84621F-MS-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84622F-MS-NOV21.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84621H-MS-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84622H-MS-NOV21.PDF"
+          }
+        ]
+      }
+    },
+    "November 2020": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84621F-QP-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84622F-QP-NOV20.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84621H-QP-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84622H-QP-NOV20.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84621F-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84622F-W-MS-NOV20.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84621H-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84622H-W-MS-NOV20.PDF"
+          }
+        ]
+      }
+    },
+    "June 2019": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84621F-QP-JUN19.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84621H-QP-JUN19.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84621F-W-MS-JUN19.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84621H-W-MS-JUN19.PDF"
+          }
+        ]
+      }
+    }
+  },
+  "Physics": {
+    "June 2022": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84631F-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84632F-QP-JUN22.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84631H-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84632H-QP-JUN22.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84631F-MS-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84632F-MS-JUN22.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84631H-MS-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84632H-MS-JUN22.PDF"
+          }
+        ]
+      }
+    },
+    "November 2021": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84631F-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84632F-QP-NOV21.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84631H-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84632H-QP-NOV21.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84631F-MS-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84632F-MS-NOV21.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84631H-MS-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-84632H-MS-NOV21.PDF"
+          }
+        ]
+      }
+    },
+    "November 2020": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84631F-QP-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84632F-QP-NOV20.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84631H-QP-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84632H-QP-NOV20.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84631F-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84632F-W-MS-NOV20.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84631H-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-84632H-W-MS-NOV20.PDF"
+          }
+        ]
+      }
+    },
+    "June 2019": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84631F-QP-JUN19.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84632F-QP-JUN19.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84632H-QP-JUN19.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84631F-W-MS-JUN19.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84632F-W-MS-JUN19.PDF"
+          }
+        ],
+        "higher": [
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84632H-W-MS-JUN19.PDF"
+          }
+        ]
+      }
+    },
+    "June 2018": {
+      "Question Papers": {
+        "foundation": [],
+        "higher": [
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-84632H-QP-JUN18.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [],
+        "higher": [
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2018/june/AQA-84632H-W-MS-JUN18.PDF"
+          }
+        ]
+      }
+    }
+  },
+  "Computing": {
+    "November 2021": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FComputer-Science%2FGCSE%2FPast-Papers%2FOCR-Old%2FPaper-1%2FNovember%202021%20QP%20-%20Paper%201%20OCR%20Computer%20Science%20GCSE.pdf"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FComputer-Science%2FGCSE%2FPast-Papers%2FOCR-Old%2FPaper-1%2FNovember%202021%20MS%20-%20Paper%201%20OCR%20Computer%20Science%20GCSE.pdf"
+          }
+        ]
+      }
+    },
+    "November 2020": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FComputer-Science%2FGCSE%2FPast-Papers%2FOCR-Old%2FPaper-1%2FNovember%202020%20QP%20-%20Paper%201%20OCR%20Computer%20Science%20GCSE.pdf"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FComputer-Science%2FGCSE%2FPast-Papers%2FOCR-Old%2FPaper-1%2FNovember%202020%20MS%20-%20Paper%201%20OCR%20Computer%20Science%20GCSE.pdf"
+          }
+        ]
+      }
+    },
+    "June 2019": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FComputer-Science%2FGCSE%2FPast-Papers%2FOCR-Old%2FPaper-1%2FJune%202019%20QP%20-%20Paper%201%20OCR%20Computer%20Science%20GCSE.pdf"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FComputer-Science%2FGCSE%2FPast-Papers%2FOCR-Old%2FPaper-1%2FJune%202019%20MS%20-%20Paper%201%20OCR%20Computer%20Science%20GCSE.pdf"
+          }
+        ]
+      }
+    },
+    "June 2018": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FComputer-Science%2FGCSE%2FPast-Papers%2FOCR-Old%2FPaper-1%2FJune%202018%20QP%20-%20Paper%201%20OCR%20Computer%20Science%20GCSE.pdf"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FComputer-Science%2FGCSE%2FPast-Papers%2FOCR-Old%2FPaper-1%2FJune%202018%20MS%20-%20Paper%201%20OCR%20Computer%20Science%20GCSE.pdf"
+          }
+        ]
+      }
+    }
+  },
+  "Geography": {
+    "June 2022": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-80351-QP-JUN22.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-80352-QP-JUN22-CR.PDF"
+          },
+          {
+            "title": "Paper 3",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-80353-QP-JUN22.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Mark scheme: Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-80351-MS-JUN22.PDF"
+          },
+          {
+            "title": "Mark scheme: Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-80352-MS-JUN22.PDF"
+          },
+          {
+            "title": "Mark scheme: Paper 3",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-80353-MS-JUN22.PDF"
+          }
+        ]
+      }
+    },
+    "November 2021": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-80351-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-80352-QP-NOV21.PDF"
+          },
+          {
+            "title": "Paper 3",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-80353-QP-NOV21.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Mark scheme: Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-80351-MS-NOV21.PDF"
+          },
+          {
+            "title": "Mark scheme: Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-80352-MS-NOV21.PDF"
+          },
+          {
+            "title": "Mark scheme: Paper 3",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-80353-MS-NOV21.PDF"
+          }
+        ]
+      }
+    },
+    "November 2020": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-80351-QP-NOV20-CR.PDF"
+          },
+          {
+            "title": "Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-80352-QP-NOV20-CR.PDF"
+          },
+          {
+            "title": "Paper 3",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-80353-QP-NOV20.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Mark scheme: Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-80351-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Mark scheme: Paper 2",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-80352-W-MS-NOV20.PDF"
+          },
+          {
+            "title": "Mark scheme: Paper 3",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-80353-W-MS-NOV20.PDF"
+          }
+        ]
+      }
+    }
+  },
+  "Design & Technology": {
+    "June 2022": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-8552W-QP-JUN22.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-8552W-MS-JUN22.PDF"
+          }
+        ]
+      }
+    },
+    "November 2021": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-8552W-QP-NOV21.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-8552W-MS-NOV21.PDF"
+          }
+        ]
+      }
+    },
+    "November 2020": {
+      "Question Papers": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-8552W-QP-NOV20.PDF"
+          }
+        ]
+      },
+      "Mark Sheets": {
+        "foundation": [
+          {
+            "title": "Paper 1",
+            "src": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-8552W-W-MS-NOV20.PDF"
+          }
+        ]
+      }
+    }
+  }
+}
