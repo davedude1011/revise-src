@@ -58,7 +58,7 @@ function Homepage({
   setPreOpenDropdownArray: (setPreOpenDropdownArray: string[]) => void;
 }) {
   return (
-    <div className="w-full h-screen m-0 bg-gray-500 scrollbar-thin scrollbar-thumb-gray-100 scrollbar-track-transparent text-white flex flex-col items-center overflow-auto">
+    <div className="homepage w-full h-screen m-0 bg-gray-500 scrollbar-thin scrollbar-thumb-gray-100 scrollbar-track-transparent text-white flex flex-col items-center overflow-auto">
       <div className="w-full min-h-screen flex items-center justify-center">
         <div className="w-full mg:w-2/3 lg:w-1/2 h-fit text-center flex flex-col items-center">
           <div className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight">
@@ -73,7 +73,18 @@ function Homepage({
           </div>
           <button
             className="mt-2 p-2 bg-blue-500 hover:bg-blue-600 rounded-md hover:px-8 transition-all text-sm px-4"
-            onClick={() => setNavbarFull(true)}
+            onClick={() => {
+              let homepageElement = document.querySelector(".homepage");
+              if (homepageElement) {
+                homepageElement.scroll({
+                  top: window.innerHeight - 24,
+                  left: 0,
+                  behavior: "smooth",
+                });
+              }
+              console.log(document.querySelector(".homepage-features"));
+              setNavbarFull(true);
+            }}
           >
             Explore Resources
           </button>
