@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 import { IoIosArrowForward, IoIosArrowDown } from "react-icons/io";
 
@@ -10,6 +10,7 @@ function Button({
   setActiveButton,
   navbarFull,
   setNavbarFull,
+  preOpen = false,
 }: {
   icon: any;
   text: string;
@@ -18,6 +19,7 @@ function Button({
   setActiveButton: (activeButton: string) => void;
   navbarFull: boolean;
   setNavbarFull: (navbarFull: boolean) => void;
+  preOpen?: boolean;
 }) {
   const isMobile = window.matchMedia("(max-width: 640px)").matches;
 
@@ -33,6 +35,10 @@ function Button({
       setActiveDropdownIds([...activeDropdownIds, id]);
     }
   }
+
+  useEffect(() => {
+    if (preOpen) toggleDropdown("-1");
+  }, [preOpen]);
 
   function recursiveDropdown(
     data: any,

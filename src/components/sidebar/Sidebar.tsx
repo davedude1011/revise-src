@@ -7,8 +7,11 @@ import { BsSearch } from "react-icons/bs";
 import { CiBookmark } from "react-icons/ci";
 import { PiMathOperations } from "react-icons/pi";
 import { IoMicOutline } from "react-icons/io5";
+import { FiSliders } from "react-icons/fi";
 import { VscGitPullRequestCreate } from "react-icons/vsc";
 import { AiOutlineRobot } from "react-icons/ai";
+import { AiOutlineFileText } from "react-icons/ai";
+import { MdOutlineSchool } from "react-icons/md";
 
 import Button from "./button/Button";
 import ButtonDropdown from "./button/ButtonDropdown";
@@ -30,11 +33,11 @@ import TopicsMarketplace from "../body/createTopics/TopicsMarketplace";
 
 import pastPaperData from "../../data/PastPaperData.json";
 import PastPaper from "../body/pastPaper/PastPaper";
-import { AiOutlineFileText } from "react-icons/ai";
 
 import curriculumData from "../../data/CurriculumData.json";
 import CurriculumPage from "../body/curriculum/Curriculum";
-import { MdOutlineSchool } from "react-icons/md";
+
+import InteractablesPage from "../body/interactables/InteractablesPage";
 
 function Sidebar({
   //content,
@@ -43,6 +46,10 @@ function Sidebar({
   setPodcastId,
   navbarFull,
   setNavbarFull,
+  topicHistory,
+  setTopicHistory,
+  preOpenDropdownArray,
+  setPreOpenDropdownArray,
 }: {
   content: any;
   setContent: (content: any) => void;
@@ -50,8 +57,11 @@ function Sidebar({
   setPodcastId: (podcastId: string) => void;
   navbarFull: boolean;
   setNavbarFull: (navbarFull: boolean) => void;
+  topicHistory: any;
+  setTopicHistory: (topicHistory: any) => void;
+  preOpenDropdownArray: string[];
+  setPreOpenDropdownArray: (setPreOpenDropdownArray: string[]) => void;
 }) {
-  const [topicHistory, setTopicHistory] = useState([] as any);
   function addTopicToHistory(topicData: any) {
     const contentExists = topicHistory.some(
       (item: any) => item[1] === topicData[1]
@@ -88,6 +98,7 @@ function Sidebar({
             setActiveButton,
             navbarFull,
             setNavbarFull,
+            preOpen: preOpenDropdownArray.includes(data.text.toLowerCase()),
           }}
         ></ButtonDropdown>
       ) : null
@@ -112,7 +123,19 @@ function Sidebar({
           <span
             className="text-[1.65rem] cursor-pointer"
             onClick={() => {
-              setContent(<Homepage />);
+              setContent(
+                <Homepage
+                  {...{
+                    navbarFull,
+                    setNavbarFull,
+                    setContent,
+                    topicHistory,
+                    setTopicHistory,
+                    setPreOpenDropdownArray,
+                  }}
+                />
+              );
+              console.log("CLICKED");
               setActiveButton("");
             }}
           >
@@ -185,9 +208,9 @@ function Sidebar({
           },
           {
             type: "simple",
-            icon: <AiOutlineRobot />,
-            text: "Chatbot",
-            data: <Chatbot />,
+            icon: <FiSliders />,
+            text: "Interactables",
+            data: <InteractablesPage />,
           },
           {
             type: "dropdown",
@@ -203,6 +226,12 @@ function Sidebar({
             ]) => {
               setContent(pageElement);
             },
+          },
+          {
+            type: "simple",
+            icon: <AiOutlineRobot />,
+            text: "Chatbot",
+            data: <Chatbot />,
           },
           {
             type: "dropdown",

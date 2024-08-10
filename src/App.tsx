@@ -1,17 +1,37 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Homepage from "./components/body/homepage/Homepage";
 import Sidebar from "./components/sidebar/Sidebar";
 
 import { AiOutlineMenuUnfold } from "react-icons/ai";
 
 function App() {
-  const [content, setContent] = useState(<Homepage />);
+  const [topicHistory, setTopicHistory] = useState([] as any);
+  const [navbarFull, setNavbarFull] = useState(false);
+
+  const [preOpenDropdownArray, setPreOpenDropdownArray] = useState(
+    [] as string[]
+  );
+
+  const [content, setContent] = useState("" as any);
+  useEffect(() => {
+    setContent(
+      <Homepage
+        {...{
+          navbarFull,
+          setNavbarFull,
+          setContent,
+          topicHistory,
+          setTopicHistory,
+          setPreOpenDropdownArray,
+        }}
+      />
+    );
+  }, []);
 
   // @ts-ignore
   const [podcastTheme, setPodcastTheme] = useState("1" as "1" | "0");
   const [podcastId, setPodcastId] = useState("");
 
-  const [navbarFull, setNavbarFull] = useState(true);
   return (
     <>
       <div className="flex flex-row">
@@ -29,6 +49,10 @@ function App() {
             setPodcastId,
             navbarFull,
             setNavbarFull,
+            topicHistory,
+            setTopicHistory,
+            preOpenDropdownArray,
+            setPreOpenDropdownArray,
           }}
         />
         {content}

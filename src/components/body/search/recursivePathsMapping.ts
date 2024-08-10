@@ -9,7 +9,7 @@ function recursivePathsMapping({data, currentPath = "", ignoreData = false}: {
       dataPaths.push({
         // isDirect is true when the object directly leads to data and not just more options
         isDirect: Array.isArray(data[key]),
-        path: `${currentPath}${currentPath ? "/" : ""}${key}`,
+        path: `${currentPath}${currentPath ? "%slash%" : ""}${key}`,
         data: ignoreData ? "" : (Array.isArray(data[key])
           ? data[key]
           : "Data only in Direct Objects :-)"),
@@ -18,7 +18,7 @@ function recursivePathsMapping({data, currentPath = "", ignoreData = false}: {
         dataPaths.push(
           ...recursivePathsMapping({
             data: data[key],
-            currentPath: `${currentPath}${currentPath ? "/" : ""}${key}`,
+            currentPath: `${currentPath}${currentPath ? "%slash%" : ""}${key}`,
             ignoreData
         }
           )
