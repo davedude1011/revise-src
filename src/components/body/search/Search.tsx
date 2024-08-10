@@ -52,7 +52,7 @@ function searchThroughData({
                     data.data,
                   ]);
                 } else {
-                  setSearchValue(data.path);
+                  setSearchValue(includeTag + " " + data.path);
                 }
 
                 if (displayDataOnclick) {
