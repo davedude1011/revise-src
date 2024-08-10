@@ -38,7 +38,7 @@ function searchThroughData({
           .filter((data: any) =>
             data.path
               .toLowerCase()
-              .includes(searchValue.toLowerCase().replace(/\s*:\w+\b/g, ""))
+              .includes(searchValue.toLowerCase().replace(/\s*:\w+\b\s*/g, ""))
           )
           .map((data: any) => (
             <button
@@ -98,7 +98,7 @@ function Search({
   setContent,
   topicHistory,
   setTopicHistory,
-  preSearch = ":topics :dictionary",
+  preSearch = ":topics :dictionary ",
 }: {
   setContent: (content: any) => void;
   topicHistory: any;
