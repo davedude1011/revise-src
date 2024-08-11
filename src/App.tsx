@@ -23,6 +23,7 @@ function App() {
           topicHistory,
           setTopicHistory,
           setPreOpenDropdownArray,
+          setPodcastId,
         }}
       />
     );

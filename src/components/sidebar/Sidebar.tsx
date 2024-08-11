@@ -6,7 +6,7 @@ import { AiOutlineMenuFold, AiOutlineMenuUnfold } from "react-icons/ai";
 import { BsSearch } from "react-icons/bs";
 import { CiBookmark } from "react-icons/ci";
 import { PiMathOperations } from "react-icons/pi";
-import { IoMicOutline } from "react-icons/io5";
+import { FiHeadphones } from "react-icons/fi";
 import { FiSliders } from "react-icons/fi";
 import { VscGitPullRequestCreate } from "react-icons/vsc";
 import { AiOutlineRobot } from "react-icons/ai";
@@ -24,17 +24,17 @@ import SearchPage from "../body/search/Search";
 
 import SparxDatabase from "../body/sparx-database/SparxDatabase";
 
-import podcastsData from "../../data/PodcastsData.json";
+import podcastsData from "../../data/podcastsData.json";
 
 import Chatbot from "../body/chatbot/Chatbot";
 
 import CreateTopics from "../body/createTopics/CreateTopics";
 import TopicsMarketplace from "../body/createTopics/TopicsMarketplace";
 
-import pastPaperData from "../../data/PastPaperData.json";
+import pastPaperData from "../../data/pastPaperData.json";
 import PastPaper from "../body/pastPaper/PastPaper";
 
-import curriculumData from "../../data/CurriculumData.json";
+import curriculumData from "../../data/curriculumData.json";
 import CurriculumPage from "../body/curriculum/Curriculum";
 
 import InteractablesPage from "../body/interactables/InteractablesPage";
@@ -132,6 +132,7 @@ function Sidebar({
                     topicHistory,
                     setTopicHistory,
                     setPreOpenDropdownArray,
+                    setPodcastId,
                   }}
                 />
               );
@@ -171,6 +172,7 @@ function Sidebar({
                   setContent,
                   topicHistory,
                   setTopicHistory,
+                  setPodcastId,
                 }}
               />
             ),
@@ -199,7 +201,7 @@ function Sidebar({
           },
           {
             type: "dropdown",
-            icon: <IoMicOutline />,
+            icon: <FiHeadphones />,
             text: "Podcasts",
             dropdownData: podcastsData,
             useContentFunction: ([_, [newPodcastId]]: [string, [string]]) => {

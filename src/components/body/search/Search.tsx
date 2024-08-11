@@ -10,6 +10,8 @@ import TopicsPage from "../topics/Topics";
 
 import dictionaryData from "../../../data/dictionaryData.json";
 
+import podcastsData from "../../../data/podcastsData.json";
+
 function searchThroughData({
   data,
   includeTag,
@@ -42,7 +44,7 @@ function searchThroughData({
           )
           .map((data: any) => (
             <button
-              className="p-2 m-1 border rounded-md flex flex-col hover:bg-gray-400 group h-fit"
+              className="p-1 w-[45%] md:w-fit text-start md:p-2 m-1 border rounded-md flex flex-col hover:bg-gray-400 group h-fit break-all"
               onClick={() => {
                 if (data.isDirect) {
                   useContentFunction([
@@ -66,11 +68,11 @@ function searchThroughData({
                 }
               }}
             >
-              <span className="text-xs text-muted">
+              <span className="text-[10px] md:text-xs text-muted">
                 {data.path.replace(/%slash%/g, "/")}
               </span>
               <div className="flex flex-row items-center justify-between w-full">
-                <span className="text-lg text-white">
+                <span className="text-xs md:text-lg text-white">
                   {
                     data.path.split("%slash%")[
                       data.path.split("%slash%").length - 1
@@ -98,12 +100,14 @@ function Search({
   setContent,
   topicHistory,
   setTopicHistory,
-  preSearch = ":topics :dictionary ",
+  preSearch = ":topics :dictionary :podcasts ",
+  setPodcastId,
 }: {
   setContent: (content: any) => void;
   topicHistory: any;
   setTopicHistory: (topicData: any) => void;
   preSearch?: string;
+  setPodcastId: (podcastId: string) => void;
 }) {
   const [searchValue, setSearchValue] = useState(preSearch);
   function addTopicToHistory(topicData: any) {
@@ -118,19 +122,19 @@ function Search({
   return (
     <div className="w-full h-screen m-0 bg-gray-500 flex flex-col items-start overflow-auto scrollbar-thin scrollbar-thumb-gray-100 scrollbar-track-transparent">
       <div className="w-full flex flex-col items-center">
-        <div className="w-1/2 h-fit bg-gray-500 text-white rounded-full border border-muted placeholder-muted flex flex-row mt-5">
+        <div className="w-[90%] mt-16 md:w-1/2 h-fit bg-gray-500 text-white rounded-full border border-muted placeholder-muted flex flex-row md:mt-5">
           <button className="text-md bg-gray-600 w-8 h-full rounded-s-full flex justify-end items-center">
             <BsSearch />
           </button>
           <input
             type="text"
             id="large-input"
-            placeholder="Search"
+            placeholder="Search... ( :topics :dictionary :podcasts )"
             value={searchValue.replace(/%slash%/g, "/")}
             onChange={(e) =>
               setSearchValue(e.target.value.replace(/\//g, "%slash%"))
             }
-            className="w-[calc(100%-2rem)] bg-gray-600 h-full p-3 text-white rounded-e-full border-muted placeholder-muted focus:outline-none"
+            className="w-full md:w-[calc(100%-2rem)] bg-gray-600 h-full p-3 text-white rounded-e-full border-muted placeholder-muted focus:outline-none"
           />
         </div>
       </div>
@@ -148,6 +152,15 @@ function Search({
             />
           );
           setTopicHistory(addTopicToHistory([title, content]));
+        },
+      })}
+      {searchThroughData({
+        data: podcastsData,
+        includeTag: ":podcasts",
+        searchValue,
+        setSearchValue,
+        useContentFunction: ([_, [podcastId]]: [string, [string]]) => {
+          setPodcastId(podcastId);
         },
       })}
       {searchThroughData({

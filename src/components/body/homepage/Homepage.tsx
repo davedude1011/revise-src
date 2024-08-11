@@ -50,12 +50,14 @@ function Homepage({
   topicHistory,
   setTopicHistory,
   setPreOpenDropdownArray,
+  setPodcastId,
 }: {
   setNavbarFull: (navbarFull: boolean) => void;
   setContent: (content: any) => void;
   topicHistory: any;
   setTopicHistory: (topicHistory: any) => void;
   setPreOpenDropdownArray: (setPreOpenDropdownArray: string[]) => void;
+  setPodcastId: (podcastId: string) => void;
 }) {
   return (
     <div className="homepage w-full h-screen m-0 bg-gray-500 scrollbar-thin scrollbar-thumb-gray-100 scrollbar-track-transparent text-white flex flex-col items-center overflow-auto">
@@ -154,7 +156,14 @@ function Homepage({
               buttonText: "Search",
               onclickFunction: () =>
                 setContent(
-                  <Search {...{ setContent, topicHistory, setTopicHistory }} />
+                  <Search
+                    {...{
+                      setContent,
+                      topicHistory,
+                      setTopicHistory,
+                      setPodcastId,
+                    }}
+                  />
                 ),
             }}
           />
@@ -223,6 +232,7 @@ function Homepage({
                         topicHistory,
                         setTopicHistory,
                         preSearch: ":topics",
+                        setPodcastId,
                       }}
                     />
                   ),
@@ -242,6 +252,7 @@ function Homepage({
                         topicHistory,
                         setTopicHistory,
                         preSearch: ":podcasts",
+                        setPodcastId,
                       }}
                     />
                   ),
@@ -261,6 +272,7 @@ function Homepage({
                         topicHistory,
                         setTopicHistory,
                         preSearch: ":dictionary",
+                        setPodcastId,
                       }}
                     />
                   ),
