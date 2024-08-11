@@ -3,6 +3,7 @@ import {
   ParticleMovementSlider,
   ParticleMovementSliderThumbnail,
 } from "./components/ParticleMovementSlider";
+import { WaveTypes, WaveTypesThumbnail } from "./components/WaveTypes";
 
 function Interactable({
   ThumbnailElement,
@@ -59,6 +60,15 @@ function InteractablesPage() {
             OnclickElement: <ParticleMovementSlider />,
             title: "Particle Movement",
             text: "Shows the movement/arrangement of Particles depending on their internal energy.",
+            setDisplayedElement,
+          }}
+        />
+        <Interactable
+          {...{
+            ThumbnailElement: <WaveTypesThumbnail />,
+            OnclickElement: <WaveTypes />,
+            title: "Wave Types",
+            text: "The movement of particles through different waves.",
             setDisplayedElement,
           }}
         />

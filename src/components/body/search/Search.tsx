@@ -44,7 +44,11 @@ function searchThroughData({
           )
           .map((data: any) => (
             <button
-              className="p-1 w-[45%] md:w-fit text-start md:p-2 m-1 border rounded-md flex flex-col hover:bg-gray-400 group h-fit break-all"
+              className={`p-1 ${
+                activeButtons.includes(data.path) && DataElement
+                  ? "w-full"
+                  : "w-[45%]"
+              } md:w-fit text-start md:p-2 m-1 border rounded-md flex flex-col hover:bg-gray-400 group h-fit break-all`}
               onClick={() => {
                 if (data.isDirect) {
                   useContentFunction([

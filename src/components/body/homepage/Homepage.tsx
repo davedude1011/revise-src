@@ -30,7 +30,7 @@ function FeatureBox({
   onclickFunction: () => void;
 }) {
   return (
-    <div className="flex flex-col border rounded-lg w-full md:w-[45%] lg:w-[32%] items-center p-8 hover:rounded-md hover:-translate-y-1 border-gray-300 hover:border-gray-100">
+    <div className="flex flex-col border rounded-lg w-full md:w-[45%] lg:w-[32%] items-center p-8 hover:shadow-lg hover:shadow-gray-700 shadow-md hover:rounded-md hover:-translate-y-1 border-gray-300 hover:border-gray-100">
       <div>{icon}</div>
       <div className="text-xl mt-4 text-center">{title}</div>
       <div className="text-muted text-sm text-center">{text}</div>
