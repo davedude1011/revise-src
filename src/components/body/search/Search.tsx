@@ -12,6 +12,8 @@ import dictionaryData from "../../../data/dictionaryData.json";
 
 import podcastsData from "../../../data/podcastsData.json";
 
+//import equationData from "../../../data/equationData.json";
+
 function searchThroughData({
   data,
   includeTag,
@@ -31,7 +33,7 @@ function searchThroughData({
 }) {
   console.log("made it!");
   const [activeButtons, setActiveButtons] = useState([] as any);
-  if (searchValue.includes(includeTag)) {
+  if (searchValue.includes(includeTag) || searchValue.includes(":all")) {
     return (
       <div className="text-white flex flex-wrap p-10 pt-5">
         {recursivePathsMapping({
@@ -142,6 +144,17 @@ function Search({
           />
         </div>
       </div>
+      {/*
+      {searchThroughData({
+        data: equationData,
+        includeTag: ":equations",
+        searchValue,
+        setSearchValue,
+        useContentFunction: ([data, data1]: [any, any]) => {
+          console.log(data, data1);
+        },
+      })}
+        */}
       {searchThroughData({
         data: topicsData,
         includeTag: ":topics",

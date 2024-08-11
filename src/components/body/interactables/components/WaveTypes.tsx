@@ -59,19 +59,19 @@ function Particle({
 
 export function WaveTypes() {
   const [waveType, setWaveType] = useState("longitudinal");
+  const [particleEnergy, setParticleEnergy] = useState(20);
+  const [particleGapX, setParticleGapX] = useState(0);
+  const [particleGapY, setParticleGapY] = useState(0);
 
   const particleDimensions = [
     waveType == "longitudinal"
-      ? Math.round((window.innerHeight * (2 / 3)) / 40)
+      ? Math.round((window.innerHeight * (2 / 3)) / (40 + particleGapY))
       : Math.round((window.innerHeight * (2 / 3)) / 40) - 5,
     waveType == "longitudinal"
-      ? Math.round((window.innerWidth * (2 / 3)) / 40)
+      ? Math.round((window.innerWidth * (2 / 3)) / (40 + particleGapX))
       : Math.round((window.innerWidth * (2 / 3)) / 40) + 2,
   ];
-  const [particleEnergy, setParticleEnergy] = useState(20);
   const [type, setType] = useState("hydrogen");
-  const [particleGapX, setParticleGapX] = useState(0);
-  const [particleGapY, setParticleGapY] = useState(0);
 
   const [longitudinalShiftX, setLongitudinalShiftX] = useState(0);
 
@@ -145,7 +145,7 @@ export function WaveTypes() {
                   radius={
                     ((particleDimensions[0] - indexY) * particleEnergy) / 10
                   }
-                  preDegree={indexX * 10}
+                  preDegree={indexX * 8}
                   type={type}
                 />
               ))

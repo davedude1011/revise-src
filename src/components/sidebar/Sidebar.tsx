@@ -11,6 +11,7 @@ import { FiSliders } from "react-icons/fi";
 import { VscGitPullRequestCreate } from "react-icons/vsc";
 import { AiOutlineRobot } from "react-icons/ai";
 import { AiOutlineFileText } from "react-icons/ai";
+import { TbMathIntegral } from "react-icons/tb";
 import { MdOutlineSchool } from "react-icons/md";
 
 import Button from "./button/Button";
@@ -38,6 +39,8 @@ import curriculumData from "../../data/curriculumData.json";
 import CurriculumPage from "../body/curriculum/Curriculum";
 
 import InteractablesPage from "../body/interactables/InteractablesPage";
+
+import EquationsPage from "../body/equations/Equations";
 
 function Sidebar({
   //content,
@@ -243,6 +246,12 @@ function Sidebar({
             useContentFunction: ([_, [pastPaperSrc]]: [string, [string]]) => {
               setContent(<PastPaper {...{ pastPaperSrc }} />);
             },
+          },
+          {
+            type: "simple",
+            icon: <TbMathIntegral />,
+            text: "Equations",
+            data: <EquationsPage />,
           },
           {
             type: "dropdown",

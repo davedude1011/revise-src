@@ -44,11 +44,11 @@ function Particle({
 }
 
 export function ParticleMovementSlider() {
-  const particleDimensions = [
-    Math.round((window.innerWidth * (2 / 3)) / 40),
-    Math.round((window.innerHeight * (2 / 3)) / 40),
-  ];
   const [particleEnergy, setParticleEnergy] = useState(1);
+  const particleDimensions = [
+    Math.round((window.innerWidth * (2 / 3)) / (40 + particleEnergy)),
+    Math.round((window.innerHeight * (2 / 3)) / (40 + particleEnergy)),
+  ];
   const [type, setType] = useState("hydrogen");
 
   return (

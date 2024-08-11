@@ -9,12 +9,14 @@ import { AiOutlineRobot } from "react-icons/ai";
 import { AiOutlineFileText } from "react-icons/ai";
 import { MdOutlineSchool } from "react-icons/md";
 import { PiBookBookmarkLight } from "react-icons/pi";
+import { TbMathIntegral } from "react-icons/tb";
 
 import Search from "../search/Search";
 import SparxDatabase from "../sparx-database/SparxDatabase";
 import InteractablesPage from "../interactables/InteractablesPage";
 import Chatbot from "../chatbot/Chatbot";
 import CreateTopics from "../createTopics/CreateTopics";
+import EquationsPage from "../equations/Equations";
 
 function FeatureBox({
   title,
@@ -102,7 +104,7 @@ function Homepage({
         <div className="text-2xl font-semibold tracking-wide">
           What RccRevision Offers
         </div>
-        <div className="w-full p-5 md:p-16 md:pt-8 flex flex-row flex-wrap justify-evenly gap-y-5">
+        <div className="w-full p-5 md:p-16 md:pt-8 flex flex-row flex-wrap justify-start gap-5">
           <FeatureBox
             {...{
               icon: <CiBookmark size={36} />,
@@ -169,14 +171,11 @@ function Homepage({
           />
           <FeatureBox
             {...{
-              icon: <MdOutlineSchool size={36} />,
-              title: "Curriculum",
-              text: "The Curriculum roadmaps for each subject, specifically from the Robertsbridge website.",
-              buttonText: "Explore",
-              onclickFunction: () => {
-                setNavbarFull(true);
-                setPreOpenDropdownArray(["curriculum"]);
-              },
+              icon: <TbMathIntegral size={36} />,
+              title: "Equations",
+              text: "A large lists of catagorized equations across various subjects.",
+              buttonText: "Take a look",
+              onclickFunction: () => setContent(<EquationsPage />),
             }}
           />
           <FeatureBox
@@ -195,6 +194,18 @@ function Homepage({
               text: "Get personalized assistance and answers to your questions from our AI-powered chatbot.",
               buttonText: "Chat",
               onclickFunction: () => setContent(<Chatbot />),
+            }}
+          />
+          <FeatureBox
+            {...{
+              icon: <MdOutlineSchool size={36} />,
+              title: "Curriculum",
+              text: "The Curriculum roadmaps for each subject, specifically from the Robertsbridge website.",
+              buttonText: "Explore",
+              onclickFunction: () => {
+                setNavbarFull(true);
+                setPreOpenDropdownArray(["curriculum"]);
+              },
             }}
           />
           <FeatureBox
